@@ -6,3 +6,5 @@ elif num < 0: # Check if the number is less than 0
     print("Negative number") # If the number is less than 0, it is a negative number
 else:# If the number is not greater than 0 and not less than 0, it must be zero
     print("Zero") # If the number is neither greater than 0 nor less than 0, it is zero
+
+#output:positive number
